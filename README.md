@@ -1,6 +1,7 @@
 # JAVATermProject
 - SWE2023 : JAVA Programming Lab (Spring, 2021)
 - 2021.06.06 GUI to select furnitures and decorate a virtual room for a change
+- 자바프로그래밍실습 기말 과제입니다
 
 ![image](https://user-images.githubusercontent.com/76966915/222941535-a6e6cbce-d7be-4a7e-8cb9-3442842ffdb2.png)
 
